@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently learning Computer Science at Sapienza University
+- I like to play guitar
+
 <!--
 **Dieal/Dieal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
