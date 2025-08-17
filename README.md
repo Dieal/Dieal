@@ -1,10 +1,37 @@
-## Hi there 👋
+# Hey there 👋
 
-- I'm currently learning Computer Science at Sapienza University
-- I like to play guitar
+I'm a Computer Science student at **Sapienza University**.  
+Right now, I'm mostly focused on learning CS basics really well (algorithms, data structures, mathematics)
+and practicing on real-world scenarios.  
 
+---
+
+### About me
+- 🎸 I play guitar and piano (badly, but at least I try)
+- 📚 I like reading — Dostoevskij, Hitchhiker's Guide to the Galaxy, ...
+
+---
+
+### Currently building
+- 🚌 A Rome public transport tracker (using ATAC's GTFS)
+- 🗯️ Realtime chat TUI
+
+---
+
+### Currently learning
+- 🦀 Rust
+- 🖥️ Computer Architecture (RISC-V) 
+- ⚙️ Interpeters and Compilers (currently reading "Crafting Interpreters")
+
+---
+
+### Find me here
+[LinkedIn](www.linkedin.com/in/samu-lombardi)
+
+---
+
+Thanks for stopping by
 <!--
-**Dieal/Dieal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
