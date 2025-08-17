@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at **Sapienza University**.  
 Right now, I'm mostly focused on learning CS basics really well (algorithms, data structures, mathematics)
-and practicing on real-world scenarios.  
+and practicing on small, real-world scenarios.  
 
 ---
 
@@ -26,7 +26,7 @@ and practicing on real-world scenarios.
 ---
 
 ### Find me here
-[LinkedIn](www.linkedin.com/in/samu-lombardi)
+[LinkedIn](https://www.linkedin.com/in/samu-lombardi)
 
 ---
 
