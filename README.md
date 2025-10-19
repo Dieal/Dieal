@@ -7,14 +7,16 @@ and practicing on small, real-world scenarios.
 ---
 
 ### About me
-- 🎸 I play guitar and piano (badly, but at least I try)
+- 🎸 I play guitar and piano
 - 📚 I like reading — Dostoevskij, Hitchhiker's Guide to the Galaxy, ...
 
 ---
+### Built
+- 🚌 [Moovite](https://github.com/nnamo-inc/moovite): A Rome public transport tracker (using ATAC's GTFS)
+
 
 ### Currently building
-- 🚌 A Rome public transport tracker (using ATAC's GTFS)
-- 🗯️ Realtime chat TUI
+- 🐍 CLI Snake
 
 ---
 
