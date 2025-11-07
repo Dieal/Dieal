@@ -13,16 +13,18 @@ and practicing on small, real-world scenarios.
 ---
 ### Built
 - 🚌 [Moovite](https://github.com/nnamo-inc/moovite): A Rome public transport tracker (using ATAC's GTFS)
+- 🐍 [CLI Snake](https://github.com/Dieal/snake): A simple CLI Snake built in Rust 🦀
 
 
 ### Currently building
-- 🐍 CLI Snake
+
 
 ---
 
 ### Currently learning
 - 🦀 Rust
-- 🖥️ Computer Architecture (RISC-V) 
+- ➕ Abstract Algebra and Probability
+- 🖥️ Operating Systems
 - ⚙️ Interpeters and Compilers (currently reading "Crafting Interpreters")
 
 ---
