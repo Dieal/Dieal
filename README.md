@@ -17,7 +17,7 @@ and practicing on small, real-world scenarios.
 
 
 ### Currently building
-
+- ⌨️ [powy](https://github.com/Dieal/powy): Simple terminal text editor
 
 ---
 
