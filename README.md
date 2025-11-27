@@ -23,7 +23,7 @@ and practicing on small, real-world scenarios.
 
 ### Currently learning
 - 🦀 Rust
-- ➕ Abstract Algebra and Probability
+- ➕ Abstract and Linear Algebra, Probability and Databases
 - 🖥️ Operating Systems
 - ⚙️ Interpeters and Compilers (currently reading "Crafting Interpreters")
 
