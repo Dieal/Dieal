@@ -11,13 +11,18 @@ and practicing on small, real-world scenarios.
 - 📚 I like reading — Dostoevskij, Hitchhiker's Guide to the Galaxy, ...
 
 ---
-### Built
+### Projects
+#### Built
 - 🚌 [Moovite](https://github.com/nnamo-inc/moovite): A Rome public transport tracker (using ATAC's GTFS)
 - 🐍 [CLI Snake](https://github.com/Dieal/snake): A simple CLI Snake built in Rust 🦀
 
-
-### Currently building
+#### Currently building
 - ⌨️ [powy](https://github.com/Dieal/powy): Simple terminal text editor
+
+---
+
+### Contributions
+- Member of [Sapienza Students Network](https://github.com/sapienzastudentsnetwork)
 
 ---
 
