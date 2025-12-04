@@ -23,6 +23,7 @@ and practicing on small, real-world scenarios.
 
 ### Contributions
 - Member of [Sapienza Students Network](https://github.com/sapienzastudentsnetwork)
+- Maintainer of the Sapienza Computer Science's [Algebra Forum](https://github.com/sapienzastudentsnetwork/algebra)
 
 ---
 
